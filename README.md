@@ -5,6 +5,8 @@ It gets every image from a folder on the server and displays them in a div.
 You can advance the album (folder = album) by either clicking, space or right arrow.
 It works on mobile too, because you can advance the album by clicking (touching).
 
+For a live preview visit my website [oblivion.at](http://oblivion.at/reader/)
+
 ## Source
 
 The pictures inside the 'pics' folder are shooting pictures of 'Megumi Koneko', all the rights belong to her.
